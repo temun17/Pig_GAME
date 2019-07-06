@@ -27,7 +27,7 @@ function btn() {
     } else {
         // Next Player
         nextPlayer();
-        alert('DAMNN SONNN YOU FUCKED UP!');
+	alert('Wrong Move! Next Players Turn!');
     }
 
 }
